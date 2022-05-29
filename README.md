@@ -10,7 +10,7 @@ Finance managers can log in and view all reimbursement requests and history for 
 
 Finance managers are authorized to approve and deny requests for expense reimbursement.
 
-Mandatory Requirements 
+## Mandatory Requirements 
 An Employee can:
 •Login.  
 •View the employee homepage.  
@@ -31,7 +31,7 @@ A Manager can:
 •View reimbursement requests of a specific employee.
 •View all employees.
 
-Optional Requirements
+## Optional Requirements
 An Employeecan:
 •Upload an image of his/her receipt as part of the reimbursement request.
 •Receive an email when one of their reimbursement requests is resolved.
@@ -41,7 +41,8 @@ A Manager can:
 •View animage of the receipt of a reimbursement request.
 •Register an employee and send an email to that employee with his credentials. 
 
-Technologies
+## Technologies
+
 •Java 1.8
 •Servlets
 •JDBC
