@@ -59,7 +59,7 @@ com.app.jdbc
   -- EmailSender.java -- this program sends email to given receiver 
   
   
-  ## Technologies
+  ## Technologies used for this project
 
 •Java 1.8
 •Servlets
